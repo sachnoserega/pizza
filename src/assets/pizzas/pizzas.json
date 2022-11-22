@@ -1,0 +1,169 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTMZkVGebKZtcoUZfQ7ZsXrCI3cpUO13SKP3i4oaUcjAg1aH3wz6ypcFohITAQfZLMvc&usqp=CAU",
+        "name": "Пепперони с креветками",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 800,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlOOHtk-lkO9xXPaYaUtcmm1mDz1PHyVFnzXAPWWwUU4wddwrgYtLNTVLKraEsQ8JZxA&usqp=CAU",
+        "name": "Фреш с сыром",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30
+        ],
+        "price": 1205,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB_rV9wStL7AIoMsqTuzYTFkRf73k9JExwLb5BKKzUlfrtKCynN32EcP6rNnWrrT72nk&usqp=CAU",
+        "name": "С соплями",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 700,
+        "category": 0,
+        "rating": 6
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5eH9MJXzX8ceEgMJ7-oGvEPhelSQs6ZP4_lXVv1MD1QpgyQWdY0rq1mGkN6LT9ZHgDYY&usqp=CAU",
+        "name": "Сырная с луком",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            30,
+            40
+        ],
+        "price": 804,
+        "category": 0,
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHPRR4m7kIO1Z3p6xgRkUsVT4iXes7zaujPyGWiJDCQy4wp41fmQRlgEhZ2z3wUmpL_c&usqp=CAU",
+        "name": "Итальянская",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 450,
+        "category": 1,
+        "rating": 9
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUzo5pFM7sI1fgZrK6CwZxvmcyyFRReLuGdYwBgzy12ZVf4xI7GC45IESjf5W_5kp090&usqp=CAU",
+        "name": "Пепперони Фреш с перцем",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 570,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+        "name": "Овощная",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 370,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMcrBHvf38zJDfFZHVRpZ2Uz_64SpS2gtVNPKURrUy09GL6Ez1ADzcl3wVJYWB8lgDTs&usqp=CAU",
+        "name": " Фреш с лососем",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            30,
+            40
+        ],
+        "price": 860,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_w1djsom3RRQ_u6m8LfpZ4kZw1qzU1N9AFiXSJesIjSCmKddngcBtTg6I6VO1ipQHAkQ&usqp=CAU",
+        "name": "Цыпленок кисло-сладкий",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 204,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDLrcjXCwhXtPNmAnzdo0faTdX3DahmB6Cw&usqp=CAU",
+        "name": "Диетическая",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 1000,
+        "category": 0,
+        "rating": 4
+    }
+]
